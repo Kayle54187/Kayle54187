@@ -62,7 +62,7 @@ Looking forward to connecting and creating something awesome together! 🌈
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="electron" alt="electron" width="30" height="30"/>&nbsp;
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="rust" alt="rust" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="rust" alt="rust" width="30" height="30"/>&nbsp;
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="firebase" alt="firebase" width="30" height="30"/>&nbsp;
 
