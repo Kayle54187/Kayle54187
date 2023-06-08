@@ -17,7 +17,7 @@ Hello World!
 </div>
 <h2 style="font-weight: bold;" align="left">👩‍💻 About Me:</h2>
 
-<p>⤷ I'm a Full Stack JavaScript Developer</p>
+<p>⤷ I'm a Full Stack Developer</p>
 <ul>
 <li>
 🚀 I believe in the power of technology to make a positive impact on the world and strive to create meaningful and user-centric experiences.
