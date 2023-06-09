@@ -69,6 +69,7 @@ Looking forward to connecting and creating something awesome together! 🌈
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" alt="sqlite" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="30" height="30"/>&nbsp;
 </p>
-<div align="center">
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
+<h2>🙊 A little laughter for you</h2>
+<div>
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card">
 </div>
