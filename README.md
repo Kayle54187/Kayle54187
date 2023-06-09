@@ -26,7 +26,7 @@ Hello World!
 💻 My expertise lies in Web Development. I enjoy diving into complex problems, architecting scalable solutions, and writing clean and efficient code.
 </li>
 <li>
-🌱 I'm constantly learning and exploring new technologies to stay up-to-date with the latest trends and industry best practices. Currently, I'm excited about  progressive web app (PWA).
+🌱 I'm constantly learning and exploring new technologies to stay up-to-date with the latest trends and industry best practices. Currently, I'm working on building scalable and maintainable software.
 </li>
 <li>
 🌟 When I'm not coding, I do find more engaging yet relaxing activities to do. Whether it's exploring the great outdoors, playing music, or experimenting in the kitchen, I believe in embracing a well-rounded life.
