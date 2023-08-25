@@ -26,7 +26,7 @@ Hello World!
 💻 My expertise lies in Web Development. I enjoy diving into complex problems, architecting scalable solutions, and writing clean and efficient code.
 </li>
 <li>
-🌱 I'm constantly learning and exploring new technologies to stay up-to-date with the latest trends and industry best practices. Currently, I'm working on building scalable and maintainable software.
+🌱 I'm constantly learning and exploring new technologies to stay up-to-date with the latest trends and industry best practices. Currently, I'm learning about effective integration of Microservice Architecture in large-scale apps.
 </li>
 <li>
 🌟 When I'm not coding, I do find more engaging yet relaxing activities to do. Whether it's exploring the great outdoors, playing music, or experimenting in the kitchen, I believe in embracing a well-rounded life.
@@ -62,7 +62,7 @@ Looking forward to connecting and creating something awesome together! 🌈
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="electron" alt="electron" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" title="perl" alt="perl" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="dart" alt="dart" width="30" height="30"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" title="rust" alt="rust" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="firebase" alt="firebase" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="30" height="30"/>&nbsp;
