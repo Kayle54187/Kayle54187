@@ -37,7 +37,7 @@ Hello World!
 <li>
 🌐 Learn more about me and explore some of my projects like <br/>
 <a href="https://omni-ed.vercel.app">Omni-Ed</a> <br/>
-<a href="https://escbyimana.co.rw">Ecole Des Sciences Byimana Website</a>
+<a href="https://escbyimana.co.rw">Ecole Des Sciences Byimana Website</a> <br/>
   <a href="https://barrak-frontend.vercel.app">Barrak E-Commerce Application</a>
 </li>
 </ul>
