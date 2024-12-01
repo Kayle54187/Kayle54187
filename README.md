@@ -42,7 +42,7 @@ Hello World!
 </li>
 </ul>
 <p>
-Looking forward to connecting and creating something awesome together! 🌈
+Looking forward to connecting and creating something awesome together!
 </p>
 <hr/>
 <h2 style="font-weight: bold;">🛠  Languages and Tools :</h2>
