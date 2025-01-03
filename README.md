@@ -34,12 +34,12 @@ Hello World!
 <li>
 📫 Let's connect! Feel free to reach out to me on either one of my socials to discuss any exciting projects, collaboration opportunities, or simply to say hi.
 </li>
-<li>
+<!-- <li>
 🌐 Learn more about me and explore some of my projects like <br/>
 <a href="https://omni-ed.vercel.app">Omni-Ed</a> <br/>
 <a href="https://escbyimana.co.rw">Ecole Des Sciences Byimana Website</a> <br/>
   <a href="https://barrak-frontend.vercel.app">Barrak E-Commerce Application</a>
-</li>
+</li> -->
 </ul>
 <p>
 Looking forward to connecting and creating something awesome together!
