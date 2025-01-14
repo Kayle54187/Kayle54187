@@ -70,6 +70,7 @@ Looking forward to connecting and creating something awesome together!
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="30" height="30"/>&nbsp;
 </p>
 <hr/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayle54187&size_weight=0.5&count_weight=0.5)
 <h2>🙊 A little laughter for you</h2>
 <div>
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card">
