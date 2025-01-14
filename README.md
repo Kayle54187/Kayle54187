@@ -71,7 +71,7 @@ Looking forward to connecting and creating something awesome together!
 </p>
 <hr/>
 <h2>Top Langs</h2>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8" title="top langs" alt="top langs" width="500" height="500"/>
 <hr/>
 <h2>🙊 A little laughter for you</h2>
 <div>
