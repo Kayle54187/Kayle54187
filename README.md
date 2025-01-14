@@ -71,7 +71,7 @@ Looking forward to connecting and creating something awesome together!
 </p>
 <hr/>
 <h2>Top Langs</h2>
-<div style="display: flex; justify-content: space-around; align-items: start;">
+<div style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayle54187&langs_count=8" title="top langs" alt="top langs" width="500" height="500"/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kayle" title="top langs" alt="top langs"/>
 </div>
