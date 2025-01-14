@@ -70,11 +70,11 @@ Looking forward to connecting and creating something awesome together!
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="30" height="30"/>&nbsp;
 </p>
 <hr/>
-<h2>Top Langs</h2>
+<!-- <h2>Top Langs</h2>
 <div style="display: flex; justify-content: space-around;">
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kayle\&layout=compact" title="wakatime stats" alt="wakatime stats"/>
 </div>
-<hr/>
+<hr/> -->
 <h2>🙊 A little laughter for you</h2>
 <div>
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card">
